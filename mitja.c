@@ -8,7 +8,7 @@ int main() {
 	char consulta='s';
 
 	while(consulta=='s') {
-		printf("ElTaha25, Dòna la següent dada: ");
+		printf("ElTaha25, Dòna la següent dadas: ");
 		scanf("%f",&nou_valor);
 		suma=suma+nou_valor;
 		numero_repeticions=numero_repeticions+1;
